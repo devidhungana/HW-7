@@ -1,5 +1,5 @@
 # HW-7
-Creating the web applications using Razor view and MVC. 
+Creating the web applications using Razor Pages EF and MVC EF. 
 
 # What is the difference between database first and code first approaches?
 
